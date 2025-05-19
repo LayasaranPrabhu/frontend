@@ -1,5 +1,3 @@
-# Dependency directories
+# .gitignore
 node_modules/
-
-# Environment variables
 .env
